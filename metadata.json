@@ -1,0 +1,6 @@
+{
+  "name": "AR FUNCTION HALL",
+  "description": "Elegant booking and event management app for AR FUNCTION HALL with calendar availability, booking requests, admin management, gallery, and pricing packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
